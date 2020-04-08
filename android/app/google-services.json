@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210610030605",
+    "firebase_url": "https://cloudnotifications-2bacc.firebaseio.com",
+    "project_id": "cloudnotifications-2bacc",
+    "storage_bucket": "cloudnotifications-2bacc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210610030605:android:151e72cf1d58a134a2ad44",
+        "android_client_info": {
+          "package_name": "com.example.push_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210610030605-6joa0lk6526ofbll3lnn6md0epicp5k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE2WYyRP98OS5OQ_K127SqTF-8pJxScCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210610030605-6joa0lk6526ofbll3lnn6md0epicp5k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
